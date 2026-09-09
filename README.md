@@ -2,6 +2,9 @@
 
 A standalone FiveM server-side security resource that scans every installed resource for known **cipher / backdoor malware** patterns and actively hardens the server against the techniques those payloads rely on — obfuscated dynamic code, hidden HTTP exfiltration, bytecode injection, and shell execution.
 
+<img width="1337" height="649" alt="image" src="https://github.com/user-attachments/assets/9636a01e-7b02-4d34-8b1e-eb36f7dd7d13" />
+
+
 ---
 
 ## 📦 Requirements
